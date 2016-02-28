@@ -1,0 +1,28 @@
+name: bapomeroy
+favicon: null
+layout_spectrum: 0.7240349762141705
+typography_spectrum: 0.20368152810260653
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.9426681767217815
+  lightness: 0.2367525133304298
+  saturation: 0.21491402760148048
+  rhythmicContrast: 0.0211495712865144
+purpose: []
